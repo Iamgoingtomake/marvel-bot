@@ -24,3 +24,7 @@ Join in this [link](https://t.me/marveldata)
 ## Thanks
 
 Based on the idea from @fermezz [Star Wars bot](https://github.com/fermezz/starwars-bot)
+#### Deploy To Heroku
+
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/Iamgoingtomake/marvel-bot)
+
